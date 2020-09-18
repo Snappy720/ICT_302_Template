@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ICT 302 Website"
 theme = "ananke"
 
 [build]
